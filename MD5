@@ -1,10 +1,11 @@
-1ae3e4dde996bdd4d6c8ea34b1037af2 *DESCRIPTION
+67fb0ef94cf6ef78b92e85b6b651fdfc *DESCRIPTION
 eb93c8ad983e0865f5a634f9fd85b881 *NAMESPACE
 680e927c88dd931793273fb3ea519204 *R/Stest.R
 7a9bd299eeda4cdb9485c2b7dd697657 *R/boundary_calculations.R
 d1ffd37aac169b9933569e6121ec071b *R/found_functions.R
 bd5a0d004613c6769e2936bb0de4e29c *R/homology_calculation.R
-4ad4d3f4ed6d16561375679cdfa078a5 *README.md
+cc34a0fbcc2cf29c7b2b6f4ed1d21634 *README.md
+82f76efddd5e29d8b2a8a0c8a39b99ac *inst/CITATION
 4cfe25eb492101bdcd7d2dd942f26e30 *man/GaussianElimination.Rd
 c59df02dc68922f5f53d82fe17ad56d4 *man/S_test.Rd
 bcba6282e0c424a6be01f5651a67c03d *man/all_combinations.Rd
@@ -24,7 +25,7 @@ a2997479baa8bcc31f55c10dd6189253 *man/homology.Rd
 739a6dafc8a1969936f74f3d07f33543 *man/matrix_rank.Rd
 67ac07e96b322c99632be954d7de015f *man/output_results.Rd
 239e6b6b6fa6b5e7310a1b74bcf95fbc *man/push_down.Rd
-4851aa9f81fec9f44130cb7eb3cb280d *man/quhomology-package.Rd
+531f98f04b080d9746c287978479dae5 *man/quhomology-package.Rd
 bcb20f13f59d810deebfccab96c3b91a *man/row_space.Rd
 008b7e026e161a2c64e09b15b8105225 *man/rref.Rd
 5244e973c564e1dc056dd813bd907cbd *man/smith.Rd
